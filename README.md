@@ -1,4 +1,8 @@
 # Álgebra Linear em Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-FF7F0E?style=flat-square&logo=python&logoColor=white)
 
 ## Descrição
 Este repositório oferece uma implementação de Álgebra Linear utilizando Python, abordando conceitos chave como:
